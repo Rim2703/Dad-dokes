@@ -1,0 +1,31 @@
+.container{
+    border: 8px solid darkslateblue;
+    width: 40%;
+    height: 180px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+h3{
+    font-size: 10px;
+    text-align: center;
+    margin: 25px;
+    font-family: sans-serif;
+    color: gray;
+}
+#joke{
+    text-align: center;
+    margin: 8%;
+    font-family: sans-serif;
+}
+#jokeBtn{
+    background-color: mediumpurple;
+    color: white;
+    text-align: center;
+    border: 5px solid mediumpurple ;
+    border-radius: 5px;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 115px;
+}
